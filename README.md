@@ -18,10 +18,10 @@ Autoencoders are particularly well-suited for anomaly detection, such as identif
 - **Anomalies (Fraudulent Transactions)**: When presented with new transactions, the autoencoder can detect anomalies by measuring the difference between the input data and its reconstruction. Unusual patterns, not captured during training, will result in a larger reconstruction error, signaling potential fraud.
 
 ## Some of the plots
-**The initial 2d t-SNE**
+- **The initial 2d t-SNE**
 ![](plots/t-SNE_initial2d.png)
-
-**Latent Representation 2d**
+________
+- **Latent Representation 2d**
 ![](plots/latent_representation_2d.png)
 
 *You can check other plots and code in the notebook itself*
