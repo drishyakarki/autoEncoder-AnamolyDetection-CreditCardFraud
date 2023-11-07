@@ -27,3 +27,5 @@ Autoencoders are particularly well-suited for anomaly detection, such as identif
 *You can check other plots and code in the notebook itself*
 
 **It is a basic implementation with a basic architecture. Feel free to tweak with the model.**
+
+You can download the datastet from [https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud](here).
